@@ -26,9 +26,8 @@ menu1 = gg.choice({
 },
 
 nil,'|☠️PUBGM VIP V10.1 BY Rio☠️|\nTelegram: AllTricksFree')
-if menu1 == 1 then B() end
-if menu1 == 2 then ctn() end
-if menu1 == 3 then Exit() end
+if menu1 == 1 then ctn() end
+if menu1 == 2 then Exit() end
 XGCK=-1
 end
 
@@ -110,7 +109,7 @@ end
 
 function sbps() 
     gg.setVisible(false)
-    HH = gg.alert('____😈ACTIVATE BYPASS😈____', '[Yes]', '[No]')
+    HH = gg.alert('____😈New Update Ask Rio😈____', '[Yes]', '[No]')
     if HH == 1 then bps() end
     if HH == 2 then end 
 end 
