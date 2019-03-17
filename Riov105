@@ -25,7 +25,7 @@ menu1 = gg.choice({
 
 },
 
-nil,'|☠️PUBGM VIP V10.1 BY Rio☠️|\nTelegram: AllTricksFree')
+nil,'|☠️NEW UPDATE GET FROM RIO V11.1 BY Rio☠️|\nTelegram: AllTricksFree')
 if menu1 == 1 then ctn() end
 if menu1 == 2 then Exit() end
 XGCK=-1
