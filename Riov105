@@ -20,7 +20,6 @@ end
 function Main()
 
 menu1 = gg.choice({ 
-'    ◢◤LOBBY️',
 '    💌CONTACT💌',
 ' [EXIT]',
 
